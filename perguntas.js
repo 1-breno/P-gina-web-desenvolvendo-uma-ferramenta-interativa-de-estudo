@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Informática',
-    'Qual o melhor canal para aprender informática',
-    '@rasinformática'
+    'Rio do Tigre',
+    'Qual o melhor local pra morar',
+    'centro?'
 )
 
 criaCartao(
-    'Qual é a melhor turma do CERB',
-    'A que mais se dedica as aulas do Prof. Rafael?',
-    'Estou em dúvida'
+    'Qual é a melhor raça da gado',
+    'nelore',
+    'será mesmo?'
 )
 
 criaCartao(
-    'Ganhando o Mundo',
-    'Quem participou do Programa Ganhado o mundo em 2024?',
-    'Eloisa Amorim dos Santos'
+    'será que a pecuaria da dinheiro',
+    'nelore ou cruzamento',
+    'qual melhor envestimento'
 )
